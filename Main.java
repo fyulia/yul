@@ -50,7 +50,8 @@ public class Main {
    /*   JFrame w=new JFrame("Окошко");
       w.setSize(400,400);
       w.setVisible(true);
-      w.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);*/
+      w.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+      hhhhhhhh*/
 
       MyFrame w=new MyFrame(f1);
 
